@@ -4,3 +4,6 @@ body{
 .card .card__inner .card__media{
     width: 100%;
 }
+.announcement-bar {
+    background: #000;
+}
