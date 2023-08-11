@@ -1,3 +1,6 @@
 body{
     color: red;
 }
+.card .card__inner .card__media{
+    width: 100%;
+}
